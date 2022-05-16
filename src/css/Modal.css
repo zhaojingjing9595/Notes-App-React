@@ -1,0 +1,19 @@
+.modal-form form {
+padding: 2em;
+margin: 0;
+width: 300px;
+background-color: white;
+}
+
+.modal-form input,.modal-form textarea{
+    border: none;
+}
+
+.modal-form input{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.modal-form textarea{
+    font-size: 24px;
+}
